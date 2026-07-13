@@ -6,19 +6,6 @@
 --// ║  Credit: Meowlsoul_67 & Superman72657                          ║
 --// ║  Discord: https://discord.gg/7YAEYT6tT                         ║
 --// ║                                                                  ║
---// ║  THIS IS THE COMPLETE FULL SCRIPT - 173KB                       ║
---// ║  ALL 16 TABS WITH ALL FEATURES FULLY WORKING                    ║
---// ║                                                                  ║
---// ╚══════════════════════════════════════════════════════════════════╝
-
---// ╔══════════════════════════════════════════════════════════════════╗
---// ║                                                                  ║
---// ║           🐱🐱🐱  MEOWL HUB v10  🐱🐱🐱                          ║
---// ║                                                                  ║
---// ║  Owner: Superman72657                                            ║
---// ║  Credit: Meowlsoul_67 & Superman72657                          ║
---// ║  Discord: https://discord.gg/7YAEYT6tT                         ║
---// ║                                                                  ║
 --// ╚══════════════════════════════════════════════════════════════════╝
 
 --// Services
